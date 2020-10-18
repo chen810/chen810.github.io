@@ -27,15 +27,15 @@ title: 忘语
 description: "作学习用blog."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: Suyuan
+  job_title: Student
+  location: JiangSu
+  email:  15150765131@163.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: 
+      url: https://github.com/chen810
     - name: instagram
       url:
     - name: linkedin
@@ -47,9 +47,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Blog_SuYuan</h1>
-  section2: <h2>BLOG</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="#" title="View on GitHub"></a></div>
+  section1: <h2>毕竟西湖六月中 风光不与四时同</h2>
+  section2: <h3>Blog</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/chen810/chen810.github.io" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
