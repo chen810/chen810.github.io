@@ -85,8 +85,8 @@ html格式可用于更改图片尺寸
 
 [第一种写法](https://www.baidu.com/)
 [第二种写法][1]:此方法对应的网址另起一行
-![图片链接](https://raw.githubusercontent.com/chen810/lolibed/master/2020-12-16-2020-12-16-20-38-37.png)
-<img src='https://raw.githubusercontent.com/chen810/lolibed/master/2020-12-16-2020-12-16-20-38-37.png' alt="hello" width="100px">
+![图片链接](https://media.githubusercontent.com/media/chen810/lolibed/master/2020-12-16-2020-12-16-20-38-37.png)
+<img src='https://media.githubusercontent.com/media/chen810/lolibed/master/2020-12-16-2020-12-16-20-38-37.png' alt="hello" width="100px">
 
 可视链接 <https://www.baidu.com/>
 
